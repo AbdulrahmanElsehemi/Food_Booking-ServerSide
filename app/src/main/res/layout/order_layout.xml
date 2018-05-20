@@ -88,7 +88,7 @@ app:cardElevation="4dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
             app:cornerRadius="0dp"
-            app:buttonColor="@android:color/white"
+            app:fButtonColor="@android:color/white"
             />
         <info.hoang8f.widget.FButton
             android:id="@+id/btnRemove"
@@ -97,7 +97,7 @@ app:cardElevation="4dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
             app:cornerRadius="0dp"
-            app:buttonColor="@android:color/white"
+            app:fButtonColor="@android:color/white"
             />
 
         <info.hoang8f.widget.FButton
@@ -107,7 +107,7 @@ app:cardElevation="4dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
             app:cornerRadius="0dp"
-            app:buttonColor="@android:color/white"
+            app:fButtonColor="@android:color/white"
             />
         <info.hoang8f.widget.FButton
             android:id="@+id/btnDirection"
@@ -116,7 +116,7 @@ app:cardElevation="4dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
             app:cornerRadius="0dp"
-            app:buttonColor="@android:color/white"
+            app:fButtonColor="@android:color/white"
             />
 
 
